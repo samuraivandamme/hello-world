@@ -12,7 +12,6 @@ variables:
   imageName: 'devs4j/hello-world-pipeline-1'
   dnsName: 'hello-world-01-1234'
 
-
 pool:
   vmImage: 'ubuntu-latest'
 
